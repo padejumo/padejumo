@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Phil Adejumo. I’m a graduate student at Yale University interested in digital phenotyping and NLP
-- 📫 How to reach me philip.adejumo@gmail.com
+- 📫 How to reach me philip.adejumo@yale.edu
+  
 
 <!---
 padejumo/padejumo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
